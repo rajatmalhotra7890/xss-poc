@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+</td><img src=x onerror="self['alert'](1)"/>
